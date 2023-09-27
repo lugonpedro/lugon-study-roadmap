@@ -40,3 +40,5 @@ Agora que você tem as bases chegou a hora de escolher um framework Javascript, 
 ### Outros
 
 Caso queira seguir outro caminho ou estudar coisas avulsas recomendo o [repositório com estudo para várias linguagens e ferramentas da He4rt](https://github.com/he4rt/4noobs).
+
+``Os caminhos ainda estão sob construção ⚠️``
