@@ -34,11 +34,8 @@ Então eu gostaria de citar dois vídeos bem interessantes sobre esse mundo rec�
 Para você ter uma base como dev web é necessário saber o básico de HTML/CSS e Javascript, HTML e CSS andam juntos pois HTML cria a estrutura da página e o CSS trás a beleza da página, ou seja, sua estilização. E o Javascript para poder fazer a página ter suas funcionalidades.
 
 - [Playlist de HTML/CSS do Guanabara](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo)
-
 - [Playlist de JavaScript do Guanabara](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&ab_channel=CursoemV%C3%ADdeo)
-
 - [Seus primeiros passos no JavaScript pelo Mayk da Rockeseat](https://youtu.be/OHN8Ze4te70)
-
 - [4 dicas para escrever código limpo em JavaScript pelo Mayk da Rockeseat](https://youtu.be/HZPS_uxT6sw)
 
 Agora que você tem as bases chegou a hora de escolher um framework Javascript, na minha jornada estudei e me apaixonei pelo React, então vou deixar de recomendação o [canal da Rocketseat](<(https://www.youtube.com/@rocketseat)>) que foi meu pontapé inicial no estudo do ecossistema React, e você pode ficar livre para pesquisar sobre JavaScript, React e Node (back-end) no canal deles.
@@ -50,17 +47,18 @@ Pra quem quer ser um back-end inicialmente o leque de linguagens e frameworks pr
 
 ### Java
 
+- [O Guia - ̗̀JAVA ̖́- para Leigos da Área Tech Brasil](https://youtu.be/D7EWoFBEPvs)
+- []()
 ⚠️ Em construção
 
 ### NodeJS
 
 Pra quem gostou do JavaScript o NodeJS é uma boa pedida pra mexer com back-end, aqui vão alguns links que considero importantes:
 
+- [Criando uma API Completa com Node.js, Express e MongoDB - Passo a Passo do Zero do Gabriel Rangel](https://youtu.be/zaWFnHagbrM)
 - [Como sair do ZERO em Node.js em apenas UMA aula da Diego da Rocketseat](https://youtu.be/hHM-hr9q4mo)
-
-### Quando estudar TypeScript?
-
-O TypeScript é um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem ([definição do Google](https://www.google.com/search?q=o+que+%C3%A9+o+typescript&oq=o+que+%C3%A9+o+typescript&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB7SAQgyMjkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)), pelo fato de ser uma ferramenta que melhora a vida dos devs que desenvolvem em JavaScript, o TS se tornou algo essencial no dia a dia de quem se acostuma com essa bibloteca, sem contar na melhoria que ele trás ao trabalhar com times grandes. O momento ideal pra você estudar TypeScript **vai do seu feeling**, assim como muitas coisas escritas aqui só você vai poder me dizer se ja se sente pronto pra parar de mexer com JS puro e mexer com TS, vou deixar um vídeo [TypeScript - O que é e quais os seus benefícios? do Diego da Rocketseat](https://youtu.be/kg2-SMolAV0) a fim que você conheça um pouco da ferramenta.
+- [API Rest, Node e Typescript do Lucas Souza Dev](https://www.youtube.com/watch?v=SVepTuBK4V0&list=PL29TaWXah3iaaXDFPgTHiFMBF6wQahurP&index=1&ab_channel=LucasSouzaDev)
+- [Curso de Node.js completo com Typescript, Jest, TDD, Github](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab)
 
 ## Outros
 
