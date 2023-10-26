@@ -46,12 +46,6 @@ Antes de começar os estudos no React de fato eu recomendo assistir ao vídeo [3
 
 Pra quem quer ser um back-end inicialmente o leque de linguagens e frameworks pro back é uma coisa realmente bizarra, vou dar uma resumida nas linguagens que acredito serem mais pedidas e que vejo mais vagas no Brasil:
 
-### Java
-
-- [O Guia - ̗̀JAVA ̖́- para Leigos da Área Tech Brasil](https://youtu.be/D7EWoFBEPvs)
-- []()
-⚠️ Em construção
-
 ### NodeJS
 
 Pra quem gostou do JavaScript o NodeJS é uma boa pedida pra mexer com back-end, aqui vão alguns links que considero importantes:
@@ -60,6 +54,12 @@ Pra quem gostou do JavaScript o NodeJS é uma boa pedida pra mexer com back-end,
 - [Como sair do ZERO em Node.js em apenas UMA aula da Diego da Rocketseat](https://youtu.be/hHM-hr9q4mo)
 - [API Rest, Node e Typescript do Lucas Souza Dev](https://www.youtube.com/watch?v=SVepTuBK4V0&list=PL29TaWXah3iaaXDFPgTHiFMBF6wQahurP&index=1&ab_channel=LucasSouzaDev)
 - [Curso de Node.js completo com Typescript, Jest, TDD, Github](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab)
+
+### Java
+
+- [O Guia - ̗̀JAVA ̖́- para Leigos da Área Tech Brasil](https://youtu.be/D7EWoFBEPvs)
+- []()
+⚠️ Em construção
 
 ## Outros
 
