@@ -37,6 +37,7 @@ Para você ter uma base como dev web é necessário saber o básico de HTML/CSS 
 - [Playlist de JavaScript do Guanabara](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&ab_channel=CursoemV%C3%ADdeo)
 - [Seus primeiros passos no JavaScript pelo Mayk da Rockeseat](https://youtu.be/OHN8Ze4te70)
 - [4 dicas para escrever código limpo em JavaScript pelo Mayk da Rockeseat](https://youtu.be/HZPS_uxT6sw)
+- [Curso feliz de FullStack Javascript/Web3 do Marco Bruno](https://youtu.be/T_uUtjFa1C8)
 
 Agora que você tem as bases chegou a hora de escolher um framework Javascript, na minha jornada estudei e me apaixonei pelo React, então vou deixar de recomendação o [canal da Rocketseat](<(https://www.youtube.com/@rocketseat)>) que foi meu pontapé inicial no estudo do ecossistema React, e você pode ficar livre para pesquisar sobre JavaScript, React e Node (back-end) no canal deles.
 Antes de começar os estudos no React de fato eu recomendo assistir ao vídeo [3 coisas que você precisa dominar no Javascript para se dar bem no React do Diego da Rocketseat](https://youtu.be/a2ni_JNvJYQ). E em sequência, para realmente iniciar seus estudos em React, que é um dos frameworks mais pedidos no mercado pra quem é desenvolvedor web (juntamente com Angular), o [Discover](https://www.rocketseat.com.br/discover) que é a trilha de graça para iniciantes da plataforma da Rocketseat!
