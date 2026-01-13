@@ -20,6 +20,7 @@ O quanto você é júnior, pleno e sênior vai ser o mercado e as empresas que v
 - **Git e GitHub**
 - **Framework JS (React ou Angular ou Vue)**
 - **Banco Relacional** (MySQL ou Postgres)
+- **Terminal e Shell**
 - ***Node***
 - ***npm***
 - ***Typescript***
@@ -28,8 +29,20 @@ O quanto você é júnior, pleno e sênior vai ser o mercado e as empresas que v
 - *Protocolos de Rede (HTTP)*
 - *Banco não Relacional (MongoDB)*
 - *API Rest*
+- *SEO*
+- *CORS*
 ### Meio termo (5~? anos)
 - **DDD**
-- **Java**
+- **Outra linguagem (Java ou Python ou C# ou Go ou Rust)**
+- **Docker**
+- **Componentização**
+- **Monolito e Monolito Modular**
+- ***Linux***
+- ***Design Patterns***
+- ***Cookies***
+- *Microsserviços*
+- *GraphQL*
+- *Mobile (React Native ou Flutter)* 
 ### Avançado (?-? anos)
+- **Autenticação (KeyCloak)**
 ### Mago
