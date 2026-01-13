@@ -13,7 +13,6 @@ O quanto você é júnior, pleno e sênior vai ser o mercado e as empresas que v
 > Os tópicos poderão ou não ter um link, caso tenham será o melhor conteúdo que eu conheço sobre o assunto. O intuito é que você estude por conta própria e ache tutoriais/aulas que façam sentido para você.
 
 > A estimativa de anos ao lado do nome da trilha é uma coisa muita pessoal também, no caso eu demorei 5 anos para ficar muito bom nos conceitos de todas as ferramentas citadas.
-
 ### Iniciando (0~5 anos)
 - **HTML**
 - **CSS**
@@ -29,6 +28,8 @@ O quanto você é júnior, pleno e sênior vai ser o mercado e as empresas que v
 - *Protocolos de Rede (HTTP)*
 - *Banco não Relacional (MongoDB)*
 - *API Rest*
-
 ### Meio termo (5~? anos)
 - **DDD**
+- **Java**
+### Avançado (?-? anos)
+### Mago
